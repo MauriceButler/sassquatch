@@ -1,6 +1,8 @@
 sassquatch
 ==========
 
+### Due to some issues with node-sass and the simplicity in getting ruby installed on all environments sassquatch wil no longer be updated.
+
 sassquatch (sass [q] watch) is a simple file watcher and compiler for SASS (.scss) files.
 
 When you save changes to a .scss file it is automagicly compiles it to css for you.
